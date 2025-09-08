@@ -4,6 +4,7 @@ from pyscript import display
 # String data type
 restaurant_name = "Ari's Diner"
 owner_name = "Arianne Aguilar"
+popular_item_price = "Truffle Mac n Cheese for ₱379.00"
 
 # Integer data type
 year_since = 2025
